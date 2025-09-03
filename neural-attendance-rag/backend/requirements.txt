@@ -1,0 +1,13 @@
+# neural-attendance-rag/backend/requirements.txt
+fastapi
+uvicorn[standard]
+SQLAlchemy
+pydantic
+numpy
+opencv-python
+torch
+pillow
+sentence-transformers
+python-multipart
+
+-e .
